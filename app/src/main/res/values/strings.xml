@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">View Holder Quiz</string>
+    <string name="action_listview">ListView</string>
+    <string name="action_gridview">GridView</string>
+    <string name="listview_empty">There\'s no item in the listview.</string>
+    <string name="gridview_empty">There\'s no item in the gridview.</string>
+</resources>
