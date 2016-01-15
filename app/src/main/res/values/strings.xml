@@ -4,4 +4,6 @@
     <string name="action_gridview">GridView</string>
     <string name="listview_empty">There\'s no item in the listview.</string>
     <string name="gridview_empty">There\'s no item in the gridview.</string>
+    <string name="name">movie name</string>
+    <string name="genre">genre:</string>
 </resources>
