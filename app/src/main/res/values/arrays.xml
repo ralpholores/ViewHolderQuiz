@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movName">
+        <item>Batman v Superman: Dawn of Justice</item>
+        <item>Captain America: Civil War</item>
+        <item>X-Men: Apocalypse</item>
+        <item>Deadpool</item>
+        <item>KungFu Panda </item>
+        <item>Finding Dory</item>
+        <item>warcraft</item>
+        <item>neighbors</item>
+        <item>Independence</item>
+        <item>The JungleBook</item>
+
+
+    </string-array>
+
+    <string-array name="movPic">
+        <item>@drawable/batmansuperman</item>
+        <item>@drawable/captain</item>
+        <item>@drawable/xmen</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/kungfupanda</item>
+        <item>@drawable/findingdore</item>
+        <item>@drawable/warcraft</item>
+        <item>@drawable/neighbors</item>
+        <item>@drawable/independence</item>
+        <item>@drawable/junglebook</item>
+
+
+    </string-array>
+
+
+    <string-array name="movDesc">
+            <item>As opposed to MCU, DC Entertainment has started its initial phase of comic book adaptations.
+    We’ve only seen Superman so far, but that was only the beginning of the story that will unfold starting with “Batman v Superman: Dawn of Justice.”
+    The ‘Man of Steel’ and the ‘Dark Knight’ are arguably the two most famous heroes DC has ever created.</item>
+
+            <item>The Marvel Cinematic Universe is by far the franchise that made the most progress in the past couple of years.
+    Diverse characters in a complex storyline have been firing up the crowd for some time now, which all continues in the form of “Captain America: Civil War.”
+
+            </item>
+            <item>
+                The “X-Men” is another franchise the MCU managed to successfully transfer from its comic book origins to the big screen.
+    With seven movies behind it, “X-Men: Apocalypse” is bound to tell the story of one of Marvel’s greatest villains.
+            </item>
+
+            <item>
+    2015 was a great year for movie-lovers, especially if you are a fan of comic book adaptations and sci-fi. We’ve seen some great hits this year, including awesome remakes, sequels, and Oscar-worthy features.
+    However, 2016 is looking to be just as much fun as this year.
+            </item>
+            <item>
+
+                The 2008 animated feature “Kung Fu Panda” was a huge hit among kids and adults alike, while its 2011 sequel “Kung Fu Panda 2” only added to the success of the idea and turned one popular movie into a legitimate franchise.
+    Now it’s time to revisit Po and his adventures in “Kung Fu Panda 3.”
+
+            </item>
+            <item>
+                Everyone loved “Finding Nemo” when it came out in 2003. Packed with sea-creatures, humor, and an excellent cast, this animated movie succeeded at entertaining various crowds.
+    Now, 13 years later, we finally get to see what happens next.
+
+            </item>
+
+            <item>
+                2016 already looks like it’s going to have something for everyone, and this applies to gamers, too.
+    Speaking of which, one of the most popular video-game franchises in the world is set to get its very own, live-action movie.
+
+            </item>
+
+            <item>
+
+                When Universal Pictures released the “Neighbors” back in 2014, the audience was able to enjoy a nice mix of Seth Rogen’s pothead humor and Zac Efron’s immature and inappropriate jokes. In 2016, we’ll be able to see “Neighbors 2.”
+    The plot of this sequel is currently unknown, as “Neighbors 2” are still in development.
+
+            </item>
+            <item>
+                There’s no denying that “Independence Day” is one of the most iconic and patriotic movies that ever came out of Hollywood.
+For that reason alone, its long-awaited sequel will be welcomed with open arms when it hits the theaters in 2016.
+
+            </item>
+
+            <item>
+                By now, we’re all used to seeing comic book adaptations, endless sequels, and recycled classics in the form of remakes.
+That’s why we were hyped when we heard “The Jungle Book” is set to be rebooted.
+            </item>
+
+    </string-array>
+</resources>
